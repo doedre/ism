@@ -1,0 +1,4 @@
+mod lamda;
+
+fn main() {
+}
