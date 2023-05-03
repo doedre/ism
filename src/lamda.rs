@@ -957,8 +957,6 @@ impl std::str::FromStr for CollisionalRates {
     }
 }
 
-
-
 #[cfg(test)]
 mod tests {
 
